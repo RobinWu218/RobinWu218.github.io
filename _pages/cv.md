@@ -13,6 +13,8 @@ Education
 ======
 * B.S. in CS and ORIE, Cornell University, 2015 - 2019
 * M.S. in CS, Cornell University, 2019-2021 (expected)
+
+
 <!-- 
 Work Experience
 ======
@@ -28,9 +30,8 @@ Work Experience
 
 Research Experience
 ======
-* Summer 2018: Software Engineer Intern -->
+* Summer 2018: Software Engineer Intern 
 
-<!--
 Skills
 ======
 * Skill 1
