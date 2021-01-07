@@ -13,19 +13,24 @@ Education
 ======
 * B.S. in CS and ORIE, Cornell University, 2015 - 2019
 * M.S. in CS, Cornell University, 2019-2021 (expected)
-
-<!-- Work experience
+<!-- 
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2017: Software Engineer Intern
+  * IBM, Beijing
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
+* Summer 2018: Software Engineer Intern
+  * Morgan Stanley, New York City
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+
+Research Experience
+======
+* Summer 2018: Software Engineer Intern -->
+
+<!--
 Skills
 ======
 * Skill 1
